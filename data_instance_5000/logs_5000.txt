@@ -1,0 +1,159 @@
+[2025-04-19 22:16:33][INFO] Volume: aac5f96e-a7e0-4656-91d6-118dff3c39b7, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:16:48][INFO] Active synchronous replication for volume 4b4d3251-80dd-4c56-8117-b29c3cab18e1 to target System 5001 (TimeTaken: 8.01ms)
+[2025-04-19 22:16:49][INFO] Volume: 4b4d3251-80dd-4c56-8117-b29c3cab18e1, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:16:59][CLEANUP] Starting cleanup process for system d753c262-73dc-4931-b7a8-87bdff16ff50
+[2025-04-19 22:16:59][INFO] System metrics updated - Throughput: 125.00 MB/s, Volume Capacity: 30.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 30.00 GB (150.0%), Saturation: 625.00%, Latency: 13.00ms
+[2025-04-19 22:16:59][CLEANUP] Capacity changes after cleanup:
+- Initial: 30.00 GB
+- Freed: 0.00 GB
+- Final: 30.00 GB
+[2025-04-19 22:16:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:17:03][INFO] Volume: aac5f96e-a7e0-4656-91d6-118dff3c39b7, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:17:19][INFO] Volume: 4b4d3251-80dd-4c56-8117-b29c3cab18e1, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:17:25][INFO] Active synchronous replication for volume 4b4d3251-80dd-4c56-8117-b29c3cab18e1 to target System 5001 (TimeTaken: 8.033ms)
+[2025-04-19 22:17:29][CLEANUP] Starting cleanup process for system d753c262-73dc-4931-b7a8-87bdff16ff50
+[2025-04-19 22:17:29][INFO] System metrics updated - Throughput: 125.00 MB/s, Volume Capacity: 30.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 30.00 GB (150.0%), Saturation: 625.00%, Latency: 13.00ms
+[2025-04-19 22:17:29][CLEANUP] Capacity changes after cleanup:
+- Initial: 30.00 GB
+- Freed: 0.00 GB
+- Final: 30.00 GB
+[2025-04-19 22:17:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:17:33][INFO] Volume: aac5f96e-a7e0-4656-91d6-118dff3c39b7, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:17:49][INFO] Volume: 4b4d3251-80dd-4c56-8117-b29c3cab18e1, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:17:59][CLEANUP] Starting cleanup process for system d753c262-73dc-4931-b7a8-87bdff16ff50
+[2025-04-19 22:17:59][INFO] System metrics updated - Throughput: 125.00 MB/s, Volume Capacity: 30.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 30.00 GB (150.0%), Saturation: 625.00%, Latency: 13.00ms
+[2025-04-19 22:17:59][CLEANUP] Capacity changes after cleanup:
+- Initial: 30.00 GB
+- Freed: 0.00 GB
+- Final: 30.00 GB
+[2025-04-19 22:17:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:18:01][INFO] Active synchronous replication for volume 4b4d3251-80dd-4c56-8117-b29c3cab18e1 to target System 5001 (TimeTaken: 8.043ms)
+[2025-04-19 22:18:03][INFO] Volume: aac5f96e-a7e0-4656-91d6-118dff3c39b7, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:18:19][INFO] Volume: 4b4d3251-80dd-4c56-8117-b29c3cab18e1, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:18:29][CLEANUP] Starting cleanup process for system d753c262-73dc-4931-b7a8-87bdff16ff50
+[2025-04-19 22:18:29][INFO] System metrics updated - Throughput: 125.00 MB/s, Volume Capacity: 30.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 30.00 GB (150.0%), Saturation: 625.00%, Latency: 13.00ms
+[2025-04-19 22:18:29][CLEANUP] Capacity changes after cleanup:
+- Initial: 30.00 GB
+- Freed: 0.00 GB
+- Final: 30.00 GB
+[2025-04-19 22:18:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:18:33][INFO] Volume: aac5f96e-a7e0-4656-91d6-118dff3c39b7, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:18:37][INFO] Active synchronous replication for volume 4b4d3251-80dd-4c56-8117-b29c3cab18e1 to target System 5001 (TimeTaken: 8.039ms)
+[2025-04-19 22:18:49][INFO] Volume: 4b4d3251-80dd-4c56-8117-b29c3cab18e1, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:18:59][CLEANUP] Starting cleanup process for system d753c262-73dc-4931-b7a8-87bdff16ff50
+[2025-04-19 22:18:59][INFO] System metrics updated - Throughput: 125.00 MB/s, Volume Capacity: 30.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 30.00 GB (150.0%), Saturation: 625.00%, Latency: 13.00ms
+[2025-04-19 22:18:59][CLEANUP] Capacity changes after cleanup:
+- Initial: 30.00 GB
+- Freed: 0.00 GB
+- Final: 30.00 GB
+[2025-04-19 22:18:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:19:03][INFO] Volume: aac5f96e-a7e0-4656-91d6-118dff3c39b7, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:19:13][INFO] Active synchronous replication for volume 4b4d3251-80dd-4c56-8117-b29c3cab18e1 to target System 5001 (TimeTaken: 8.034ms)
+[2025-04-19 22:19:19][INFO] Volume: 4b4d3251-80dd-4c56-8117-b29c3cab18e1, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:19:29][CLEANUP] Starting cleanup process for system d753c262-73dc-4931-b7a8-87bdff16ff50
+[2025-04-19 22:19:29][INFO] System metrics updated - Throughput: 125.00 MB/s, Volume Capacity: 30.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 30.00 GB (150.0%), Saturation: 625.00%, Latency: 13.00ms
+[2025-04-19 22:19:29][CLEANUP] Capacity changes after cleanup:
+- Initial: 30.00 GB
+- Freed: 0.00 GB
+- Final: 30.00 GB
+[2025-04-19 22:19:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:19:33][INFO] Volume: aac5f96e-a7e0-4656-91d6-118dff3c39b7, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:19:49][INFO] Volume: 4b4d3251-80dd-4c56-8117-b29c3cab18e1, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:19:50][INFO] Active synchronous replication for volume 4b4d3251-80dd-4c56-8117-b29c3cab18e1 to target System 5001 (TimeTaken: 8.049ms)
+[2025-04-19 22:19:59][CLEANUP] Starting cleanup process for system d753c262-73dc-4931-b7a8-87bdff16ff50
+[2025-04-19 22:19:59][INFO] System metrics updated - Throughput: 125.00 MB/s, Volume Capacity: 30.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 30.00 GB (150.0%), Saturation: 625.00%, Latency: 13.00ms
+[2025-04-19 22:19:59][CLEANUP] Capacity changes after cleanup:
+- Initial: 30.00 GB
+- Freed: 0.00 GB
+- Final: 30.00 GB
+[2025-04-19 22:19:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:20:03][INFO] Volume: aac5f96e-a7e0-4656-91d6-118dff3c39b7, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:20:19][INFO] Volume: 4b4d3251-80dd-4c56-8117-b29c3cab18e1, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:20:26][INFO] Active synchronous replication for volume 4b4d3251-80dd-4c56-8117-b29c3cab18e1 to target System 5001 (TimeTaken: 8.032ms)
+[2025-04-19 22:20:29][CLEANUP] Starting cleanup process for system d753c262-73dc-4931-b7a8-87bdff16ff50
+[2025-04-19 22:20:29][INFO] System metrics updated - Throughput: 125.00 MB/s, Volume Capacity: 30.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 30.00 GB (150.0%), Saturation: 625.00%, Latency: 13.00ms
+[2025-04-19 22:20:29][CLEANUP] Capacity changes after cleanup:
+- Initial: 30.00 GB
+- Freed: 0.00 GB
+- Final: 30.00 GB
+[2025-04-19 22:20:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:20:33][INFO] Volume: aac5f96e-a7e0-4656-91d6-118dff3c39b7, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:20:49][INFO] Volume: 4b4d3251-80dd-4c56-8117-b29c3cab18e1, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:20:59][CLEANUP] Starting cleanup process for system d753c262-73dc-4931-b7a8-87bdff16ff50
+[2025-04-19 22:20:59][INFO] System metrics updated - Throughput: 125.00 MB/s, Volume Capacity: 30.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 30.00 GB (150.0%), Saturation: 625.00%, Latency: 13.00ms
+[2025-04-19 22:20:59][CLEANUP] Capacity changes after cleanup:
+- Initial: 30.00 GB
+- Freed: 0.00 GB
+- Final: 30.00 GB
+[2025-04-19 22:20:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:21:02][INFO] Active synchronous replication for volume 4b4d3251-80dd-4c56-8117-b29c3cab18e1 to target System 5001 (TimeTaken: 8.049ms)
+[2025-04-19 22:21:03][INFO] Volume: aac5f96e-a7e0-4656-91d6-118dff3c39b7, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:21:19][INFO] Volume: 4b4d3251-80dd-4c56-8117-b29c3cab18e1, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s
+[2025-04-19 22:21:29][CLEANUP] Starting cleanup process for system d753c262-73dc-4931-b7a8-87bdff16ff50
+[2025-04-19 22:21:29][INFO] System metrics updated - Throughput: 125.00 MB/s, Volume Capacity: 30.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 30.00 GB (150.0%), Saturation: 625.00%, Latency: 13.00ms
+[2025-04-19 22:21:29][CLEANUP] Capacity changes after cleanup:
+- Initial: 30.00 GB
+- Freed: 0.00 GB
+- Final: 30.00 GB
+[2025-04-19 22:21:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:21:33][INFO] Volume: aac5f96e-a7e0-4656-91d6-118dff3c39b7, Host: 1943a6ca-ba20-4083-b828-23fafe699a01, IOPS: 2000, Latency: 13.0ms, Throughput: 62.5 MB/s

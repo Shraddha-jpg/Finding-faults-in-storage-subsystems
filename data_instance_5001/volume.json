@@ -1,0 +1,13 @@
+[
+    {
+        "id": "e2011e41-c67b-4008-881f-7929c4cc4517",
+        "name": "rep-4b4d3251",
+        "system_id": "82d66fe9-8198-464e-be40-f632e50b785b",
+        "size": 15,
+        "is_exported": false,
+        "exported_host_id": null,
+        "workload_size": 0,
+        "snapshot_settings": {},
+        "replication_settings": []
+    }
+]

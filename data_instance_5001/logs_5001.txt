@@ -1,0 +1,143 @@
+[2025-04-20 20:43:10][CLEANUP] Starting cleanup process for system 82d66fe9-8198-464e-be40-f632e50b785b
+[2025-04-20 20:43:10][INFO] System metrics updated - Throughput: 0.00 MB/s, Volume Capacity: 15.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 15.00 GB (75.0%), Saturation: 0.00%, Latency: 2.00ms
+[2025-04-20 20:43:10][CLEANUP] Capacity changes after cleanup:
+- Initial: 15.00 GB
+- Freed: 0.00 GB
+- Final: 15.00 GB
+[2025-04-20 20:43:10][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 15.00 GB
+  - Saturation: 0.00%
+  - Latency: 2.00ms
+[2025-04-20 20:43:40][CLEANUP] Starting cleanup process for system 82d66fe9-8198-464e-be40-f632e50b785b
+[2025-04-20 20:43:40][INFO] System metrics updated - Throughput: 0.00 MB/s, Volume Capacity: 15.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 15.00 GB (75.0%), Saturation: 0.00%, Latency: 2.00ms
+[2025-04-20 20:43:40][CLEANUP] Capacity changes after cleanup:
+- Initial: 15.00 GB
+- Freed: 0.00 GB
+- Final: 15.00 GB
+[2025-04-20 20:43:40][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 15.00 GB
+  - Saturation: 0.00%
+  - Latency: 2.00ms
+[2025-04-20 20:44:10][CLEANUP] Starting cleanup process for system 82d66fe9-8198-464e-be40-f632e50b785b
+[2025-04-20 20:44:10][INFO] System metrics updated - Throughput: 0.00 MB/s, Volume Capacity: 15.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 15.00 GB (75.0%), Saturation: 0.00%, Latency: 2.00ms
+[2025-04-20 20:44:10][CLEANUP] Capacity changes after cleanup:
+- Initial: 15.00 GB
+- Freed: 0.00 GB
+- Final: 15.00 GB
+[2025-04-20 20:44:10][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 15.00 GB
+  - Saturation: 0.00%
+  - Latency: 2.00ms
+[2025-04-20 20:44:40][CLEANUP] Starting cleanup process for system 82d66fe9-8198-464e-be40-f632e50b785b
+[2025-04-20 20:44:40][INFO] System metrics updated - Throughput: 0.00 MB/s, Volume Capacity: 15.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 15.00 GB (75.0%), Saturation: 0.00%, Latency: 2.00ms
+[2025-04-20 20:44:40][CLEANUP] Capacity changes after cleanup:
+- Initial: 15.00 GB
+- Freed: 0.00 GB
+- Final: 15.00 GB
+[2025-04-20 20:44:40][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 15.00 GB
+  - Saturation: 0.00%
+  - Latency: 2.00ms
+[2025-04-20 20:45:10][CLEANUP] Starting cleanup process for system 82d66fe9-8198-464e-be40-f632e50b785b
+[2025-04-20 20:45:10][INFO] System metrics updated - Throughput: 0.00 MB/s, Volume Capacity: 15.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 15.00 GB (75.0%), Saturation: 0.00%, Latency: 2.00ms
+[2025-04-20 20:45:10][CLEANUP] Capacity changes after cleanup:
+- Initial: 15.00 GB
+- Freed: 0.00 GB
+- Final: 15.00 GB
+[2025-04-20 20:45:10][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 15.00 GB
+  - Saturation: 0.00%
+  - Latency: 2.00ms
+[2025-04-20 20:45:40][CLEANUP] Starting cleanup process for system 82d66fe9-8198-464e-be40-f632e50b785b
+[2025-04-20 20:45:40][INFO] System metrics updated - Throughput: 0.00 MB/s, Volume Capacity: 15.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 15.00 GB (75.0%), Saturation: 0.00%, Latency: 2.00ms
+[2025-04-20 20:45:40][CLEANUP] Capacity changes after cleanup:
+- Initial: 15.00 GB
+- Freed: 0.00 GB
+- Final: 15.00 GB
+[2025-04-20 20:45:40][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 15.00 GB
+  - Saturation: 0.00%
+  - Latency: 2.00ms
+[2025-04-20 20:46:10][CLEANUP] Starting cleanup process for system 82d66fe9-8198-464e-be40-f632e50b785b
+[2025-04-20 20:46:10][INFO] System metrics updated - Throughput: 0.00 MB/s, Volume Capacity: 15.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 15.00 GB (75.0%), Saturation: 0.00%, Latency: 2.00ms
+[2025-04-20 20:46:10][CLEANUP] Capacity changes after cleanup:
+- Initial: 15.00 GB
+- Freed: 0.00 GB
+- Final: 15.00 GB
+[2025-04-20 20:46:10][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 15.00 GB
+  - Saturation: 0.00%
+  - Latency: 2.00ms
+[2025-04-20 20:46:40][CLEANUP] Starting cleanup process for system 82d66fe9-8198-464e-be40-f632e50b785b
+[2025-04-20 20:46:40][INFO] System metrics updated - Throughput: 0.00 MB/s, Volume Capacity: 15.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 15.00 GB (75.0%), Saturation: 0.00%, Latency: 2.00ms
+[2025-04-20 20:46:40][CLEANUP] Capacity changes after cleanup:
+- Initial: 15.00 GB
+- Freed: 0.00 GB
+- Final: 15.00 GB
+[2025-04-20 20:46:40][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 15.00 GB
+  - Saturation: 0.00%
+  - Latency: 2.00ms
+[2025-04-20 20:47:10][CLEANUP] Starting cleanup process for system 82d66fe9-8198-464e-be40-f632e50b785b
+[2025-04-20 20:47:10][INFO] System metrics updated - Throughput: 0.00 MB/s, Volume Capacity: 15.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 15.00 GB (75.0%), Saturation: 0.00%, Latency: 2.00ms
+[2025-04-20 20:47:10][CLEANUP] Capacity changes after cleanup:
+- Initial: 15.00 GB
+- Freed: 0.00 GB
+- Final: 15.00 GB
+[2025-04-20 20:47:10][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 15.00 GB
+  - Saturation: 0.00%
+  - Latency: 2.00ms
+[2025-04-20 20:47:40][CLEANUP] Starting cleanup process for system 82d66fe9-8198-464e-be40-f632e50b785b
+[2025-04-20 20:47:40][INFO] System metrics updated - Throughput: 0.00 MB/s, Volume Capacity: 15.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 15.00 GB (75.0%), Saturation: 0.00%, Latency: 2.00ms
+[2025-04-20 20:47:40][CLEANUP] Capacity changes after cleanup:
+- Initial: 15.00 GB
+- Freed: 0.00 GB
+- Final: 15.00 GB
+[2025-04-20 20:47:40][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 15.00 GB
+  - Saturation: 0.00%
+  - Latency: 2.00ms
+[2025-04-20 20:48:10][CLEANUP] Starting cleanup process for system 82d66fe9-8198-464e-be40-f632e50b785b
+[2025-04-20 20:48:10][INFO] System metrics updated - Throughput: 0.00 MB/s, Volume Capacity: 15.00 GB, Snapshot Capacity: 0.00 GB, Total Capacity: 15.00 GB (75.0%), Saturation: 0.00%, Latency: 2.00ms
+[2025-04-20 20:48:10][CLEANUP] Capacity changes after cleanup:
+- Initial: 15.00 GB
+- Freed: 0.00 GB
+- Final: 15.00 GB
+[2025-04-20 20:48:10][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 15.00 GB
+  - Saturation: 0.00%
+  - Latency: 2.00ms

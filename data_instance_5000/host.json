@@ -1,0 +1,9 @@
+[
+    {
+        "id": "1943a6ca-ba20-4083-b828-23fafe699a01",
+        "system_id": "d753c262-73dc-4931-b7a8-87bdff16ff50",
+        "name": "host1",
+        "application_type": "HPE",
+        "protocol": "FC"
+    }
+]

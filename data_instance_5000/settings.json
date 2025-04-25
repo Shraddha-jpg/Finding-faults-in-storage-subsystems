@@ -1,0 +1,14 @@
+[
+    {
+        "id": "6af703ca-efb3-4ed8-953c-af33421c8b6b",
+        "system_id": "d753c262-73dc-4931-b7a8-87bdff16ff50",
+        "name": "r1",
+        "type": "replication",
+        "replication_type": "synchronous",
+        "delay_sec": 0,
+        "replication_target": {
+            "id": "82d66fe9-8198-464e-be40-f632e50b785b",
+            "name": "System 5001"
+        }
+    }
+]

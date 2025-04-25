@@ -1,0 +1,4599 @@
+[2025-04-19 16:54:18][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 0.00 GB
+  - Saturation: 0.00%
+  - Latency: 1.00ms
+[2025-04-19 16:54:48][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 0.00%
+  - Latency: 5.00ms
+[2025-04-19 16:55:18][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 0.00%
+  - Latency: 5.00ms
+[2025-04-19 16:55:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 0.00%
+  - Latency: 5.00ms
+[2025-04-19 16:56:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 0.00%
+  - Latency: 5.00ms
+[2025-04-19 16:56:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 0.00%
+  - Latency: 5.00ms
+[2025-04-19 16:57:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 0.00%
+  - Latency: 5.00ms
+[2025-04-19 16:57:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 0.00%
+  - Latency: 5.00ms
+[2025-04-19 16:58:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 0.00%
+  - Latency: 5.00ms
+[2025-04-19 16:58:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 0.00%
+  - Latency: 5.00ms
+[2025-04-19 16:59:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 0.00%
+  - Latency: 5.00ms
+[2025-04-19 16:59:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 16:59:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:00:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:00:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:01:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:01:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:02:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:02:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:03:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:03:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:04:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:04:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:05:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:05:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:06:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:06:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:07:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:07:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:08:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:08:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:09:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:09:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:10:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:10:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:11:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:11:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:12:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:12:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:13:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:13:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:14:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:14:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:15:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:15:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:16:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:16:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:17:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:17:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:18:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:18:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:19:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:19:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:20:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:20:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:21:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:21:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:22:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:22:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:23:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:23:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:24:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:24:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:25:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:25:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:26:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:26:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:27:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:27:49][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:28:19][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:28:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:29:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:29:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:30:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:30:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:31:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:31:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:32:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:32:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:33:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:33:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:34:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:34:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:35:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 312.50%
+  - Latency: 5.00ms
+[2025-04-19 17:35:42][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 5.00ms
+[2025-04-19 17:35:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 5.00ms
+[2025-04-19 17:36:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 5.00ms
+[2025-04-19 17:36:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:37:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:37:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:38:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:38:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:39:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:39:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:40:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:40:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:41:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:41:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:42:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:42:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:43:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:43:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:44:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:44:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:45:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:45:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:46:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:46:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:47:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:47:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:48:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:48:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:49:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:49:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:50:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:50:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:51:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:51:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:52:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:52:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:53:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:53:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:54:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:54:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:55:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:55:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:56:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:56:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:57:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:57:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:58:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:58:50][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:59:20][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 17:59:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:00:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:00:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:01:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:01:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:02:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:02:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:03:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:03:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:04:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:04:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:05:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:05:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:06:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:06:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:07:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:07:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:08:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:08:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:09:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:09:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:10:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:10:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:11:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:11:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:12:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:12:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:13:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:13:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:14:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:14:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:15:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:15:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:16:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:16:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:17:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:17:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:18:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:18:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:19:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:19:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:20:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:20:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:21:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:21:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:22:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:22:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:23:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:23:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:24:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:24:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:25:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:25:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:26:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:26:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:27:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:27:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:28:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:28:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:29:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:29:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:30:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:30:51][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:31:21][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:31:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:32:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:32:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:33:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:33:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:34:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:34:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:35:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:35:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:36:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:36:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:37:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:37:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:38:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:38:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:39:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:39:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:40:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:40:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:41:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:41:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:42:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:42:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:43:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:43:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:44:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:44:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:45:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:45:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:46:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:46:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:47:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:47:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:48:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:48:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:49:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:49:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:50:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:50:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:51:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:51:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:52:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:52:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:53:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:53:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:54:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:54:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:55:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:55:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:56:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:56:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:57:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:57:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:58:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:58:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:59:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 18:59:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:00:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:00:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:01:22][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:01:52][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:02:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:02:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:03:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:03:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:04:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:04:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:05:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:05:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:06:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:06:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:07:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:07:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:08:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:08:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:09:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:09:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:10:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:10:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:11:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:11:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:12:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:12:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:13:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:13:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:14:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:14:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:15:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:15:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:16:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:16:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:17:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:17:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:18:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:18:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:19:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:19:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:20:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:20:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:21:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:21:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:22:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:22:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:23:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:23:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:24:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:24:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:25:23][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:25:53][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:26:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:26:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:27:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:27:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:28:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:28:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:29:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:29:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:30:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:30:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:31:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:31:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:32:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:32:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:33:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:33:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:34:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:34:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:35:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:35:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:36:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:36:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:37:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:37:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:38:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:38:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:39:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:39:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:40:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:40:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:41:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:41:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:42:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:42:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:43:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:43:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:44:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:44:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:45:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:45:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:46:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:46:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:47:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:47:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:48:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:48:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:49:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:49:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:50:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:50:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:51:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:51:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:52:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:52:54][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:53:24][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:53:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:54:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:54:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:55:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:55:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:56:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:56:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:57:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:57:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:58:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:58:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:59:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 19:59:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:00:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:00:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:01:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:01:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:02:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:02:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:03:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:03:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:04:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:04:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:05:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:05:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:06:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:06:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:07:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:07:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:08:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:08:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:09:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:09:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:10:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:10:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:11:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:11:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:12:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:12:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:13:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:13:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:14:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:14:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:15:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:15:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:16:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:16:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:17:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:17:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:18:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:18:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:19:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:19:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:20:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:20:55][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:21:25][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:21:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:22:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:22:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:23:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:23:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:24:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:24:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:25:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:25:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:26:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:26:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:27:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:27:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:28:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:28:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:29:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:29:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:30:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:30:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:31:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:31:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:32:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:32:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:33:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:33:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:34:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:34:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:35:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:35:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:36:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:36:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:37:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:37:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:38:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:38:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:39:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:39:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:40:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:40:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:41:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:41:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:42:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:42:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:43:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:43:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:44:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:44:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:45:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:45:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:46:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:46:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:47:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:47:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:48:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:48:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:49:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:49:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:50:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:50:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:51:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:51:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:52:26][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:52:56][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:53:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:53:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:54:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:54:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:55:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:55:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:56:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:56:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:57:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:57:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:58:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:58:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:59:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 20:59:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:00:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:00:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:01:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:01:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:02:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:02:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:03:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:03:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:04:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:04:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:05:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:05:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:06:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:06:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:07:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:07:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:08:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:08:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:09:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:09:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:10:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:10:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:11:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:11:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:12:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:12:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:13:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:13:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:14:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:14:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:15:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:15:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:16:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:16:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:17:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:17:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:18:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:18:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:19:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:19:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:20:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:20:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:21:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:21:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:22:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:22:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:23:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:23:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:24:27][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:24:57][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:25:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:25:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:26:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:26:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:27:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:27:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:28:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:28:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:29:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:29:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:30:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:30:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:31:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:31:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:32:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:32:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:33:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:33:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:34:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:34:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:35:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:35:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:36:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:36:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:37:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:37:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:38:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:38:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:39:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:39:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:40:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:40:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:41:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:41:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:42:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:42:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:43:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:43:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:44:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:44:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:45:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:45:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:46:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:46:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:47:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:47:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:48:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:48:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:49:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:49:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:50:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:50:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:51:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:51:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:52:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:52:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:53:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:53:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:54:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:54:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:55:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:55:58][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:56:28][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:56:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:57:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:57:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:58:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:58:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:59:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 21:59:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:00:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:00:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:01:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:01:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:02:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:02:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:03:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:03:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:04:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:04:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:05:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:05:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:06:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:06:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:07:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:07:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:08:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:08:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:09:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:09:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:10:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:10:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:11:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:11:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:12:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:12:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:13:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:13:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:14:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:14:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:15:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:15:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:16:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:16:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:17:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:17:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:18:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:18:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:19:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:19:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:20:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:20:59][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
+[2025-04-19 22:21:29][CLEANUP] Housekeeping completed:
+- Total snapshots removed: 0
+- Capacity freed: 0.00 GB
+- Current system metrics:
+  - Capacity: 30.00 GB
+  - Saturation: 625.00%
+  - Latency: 13.00ms
